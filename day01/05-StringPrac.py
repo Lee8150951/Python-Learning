@@ -1,4 +1,4 @@
-# P21联系
+# P21练习
 # 练习2-3
 name = "Eric"
 greet = f"Hello {name}, would you like to learn some Python today?"
